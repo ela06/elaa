@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elaa/static/css/main.2e88afd4.css",
+    "main.js": "/elaa/static/js/main.62568dbb.js",
+    "static/js/453.9f034488.chunk.js": "/elaa/static/js/453.9f034488.chunk.js",
+    "index.html": "/elaa/index.html",
+    "main.2e88afd4.css.map": "/elaa/static/css/main.2e88afd4.css.map",
+    "main.62568dbb.js.map": "/elaa/static/js/main.62568dbb.js.map",
+    "453.9f034488.chunk.js.map": "/elaa/static/js/453.9f034488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e88afd4.css",
+    "static/js/main.62568dbb.js"
+  ]
+}
