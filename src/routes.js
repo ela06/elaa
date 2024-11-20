@@ -40,7 +40,9 @@ const router = createBrowserRouter([
       }
     ],
   },
-  
+  {
+    basename :"/elaa"
+  }
 ]);
 
 export function AppRouter() {
